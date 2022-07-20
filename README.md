@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Some academic projects**
 
-- 🌱 I’m currently learning **HTML,PHP,CSS,Database,Bootstrap**
+- 🌱 I’m currently learning **Laravel,HTML,PHP,CSS,python,Database,Bootstrap**
 
 - 💬 Ask me about **me**
 
